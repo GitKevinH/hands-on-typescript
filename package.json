@@ -1,0 +1,23 @@
+{
+  "name": "hands-on-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitKevinH/hands-on-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GitKevinH/hands-on-typescript/issues"
+  },
+  "homepage": "https://github.com/GitKevinH/hands-on-typescript#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
